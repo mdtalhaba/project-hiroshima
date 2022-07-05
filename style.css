@@ -2,6 +2,7 @@
     display: flex;
     background-image: url(image/nasacorner.png);
     background-repeat: no-repeat;
+    margin-bottom: 200px;
 }
 
 .div1 {
@@ -41,4 +42,14 @@ body {
     color: white;
     border: 3px solid black;
 
+}
+
+.sec2 {
+    display: flex;
+    margin-right: 100px;
+}
+
+.div2 {
+    margin-top: 30px;
+    font-size: x-large;
 }
