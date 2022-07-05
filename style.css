@@ -1,3 +1,44 @@
-h1 {
-    color: blue;
+.sec {
+    display: flex;
+    background-image: url(image/nasacorner.png);
+    background-repeat: no-repeat;
+}
+
+.div1 {
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.mar {
+    margin-top: 100px;
+    margin-left: 100px;
+    font-size: xx-large;
+}
+
+.h1-color {
+    color: orange;
+}
+
+.h3-color {
+    color: dimgray;
+}
+
+.isp-color {
+    color: tomato;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(11, 11, 199), rgb(121, 150, 244));
+    padding: 5px 30px;
+    border-radius: 10px;
+    font-weight: 700;
+    color: white;
+    border: 3px solid black;
+
 }
